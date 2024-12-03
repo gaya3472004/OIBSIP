@@ -35,8 +35,8 @@ An interactive console application for booking and managing reservations:
 
 ## Common Tools and Technologies
 - **Programming Language**: Java
-- **IDE**: IntelliJ IDEA, Eclipse, or any Java-supported IDE
+- **IDE**: IntelliJ IDEA
 - **Data Structures**: ArrayList, HashMap, and other Java collections
-- **Development Environment**: Java JDK 8 or higher
+
 
 ---
